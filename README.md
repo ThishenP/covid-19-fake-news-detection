@@ -1,5 +1,5 @@
 # Classification Approaches for Covid-19 Fake News Detection
-## Comparing the performance of various text classification approaches on Covid-19 fake news detection
+## Comparing various classification approaches to Covid-19 fake news detection
 
 Results:
 
