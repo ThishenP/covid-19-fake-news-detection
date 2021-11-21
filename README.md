@@ -27,7 +27,9 @@ To load the models into memory please save the models to the same location as yo
 ```python
 import joblib
 # Load the TD-IFD Vectorizer
-
+vectorization = joblib.load('tfidf_vectorizer.pkl')
+# Vectorize input data
+X = vectorization.transform(X)
 # Load Naive bayes model
 nb_model = joblib.load('naive_bayes.pkl')
 # Load Gradient Boosting model
