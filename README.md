@@ -11,6 +11,8 @@ Results:
 | F1-Score  | 0.890       | 0.850          | **0.896**              |
 
 
+A brief video was compiled that outlines the work done in this project and can be found here: https://youtu.be/Gp0zTL66Xeg
+
 If you would like to use the models please download the pickled objects and model checkpoint here: https://drive.google.com/drive/folders/1R2OfcQbjRfHUkrozfAQMv7Q9-WT8V8Nk?usp=sharing 
 
 
